@@ -44,7 +44,7 @@ Ce dépôt contient plusieurs exercices en Java couvrant différents concepts de
 ### Exercice 2.2 - Gestion des Employés et Salaires
 - **Description** : Cet exercice explore la gestion des employés dans une entreprise, en utilisant des techniques avancées de tri et de filtrage.
 - **Techniques utilisées** :
-  - **POO** : Genere une classe Employe
+  - Programmation orientée objet (POO) : utilisation de classes et d'objets pour représenter les employes.
   - **Streams** : Manipulation des données d'objets personnalisés.
   - Méthodes de flux comme `mapToDouble()`, `sorted()`, `filter()` et `reduce()` pour effectuer des calculs et transformations.
   - **Comparator** : Tri des employés selon leurs attributs.
